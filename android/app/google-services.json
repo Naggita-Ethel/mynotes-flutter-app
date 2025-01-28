@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842851425529",
+    "project_id": "mynotes-naggita-flutter-1187b",
+    "storage_bucket": "mynotes-naggita-flutter-1187b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842851425529:android:87ba5799296a0683bcd628",
+        "android_client_info": {
+          "package_name": "com.ethel.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA647oP26RI71oCfPJrxHrBmDOrASnboQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
