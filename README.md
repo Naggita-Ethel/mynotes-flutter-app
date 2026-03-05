@@ -1,6 +1,6 @@
 # mynotes
 
-A new Flutter project.
+Flutter mobile application for storing, deleting and editing notes. Firebase is used as the backend.
 
 ## Getting Started
 
